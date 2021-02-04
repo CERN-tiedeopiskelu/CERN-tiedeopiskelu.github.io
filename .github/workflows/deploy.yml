@@ -1,10 +1,10 @@
 name: deploy
 
 on:
-  # Trigger the workflow on push to main branch
+  # Trigger the workflow on push to master branch
   push:
     branches:
-      - main
+      - master
 
 # This job installs dependencies, build the book, and pushes it to `gh-pages`
 jobs:
@@ -29,7 +29,7 @@ jobs:
     # Build the book
     - name: Build the book
       run: |
-        jupyter-book build my_book
+        jupyter-book build src
 
     # Deploy the book's HTML to gh-pages branch
     - name: GitHub Pages action
