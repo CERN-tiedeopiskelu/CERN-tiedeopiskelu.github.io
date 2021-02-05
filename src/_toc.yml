@@ -1,4 +1,16 @@
 # Table of contents
 # Learn more at https://jupyterbook.org/customize/toc.html
 - file: intro
-- file: visits
+
+- part: Vierailut
+  chapters:
+  - file: tiedeleirit
+  - file: virtuaalivierailut
+
+- part: Materiaalit
+  chapters:
+  - file: cern-esittely
+  - file: ohjelmointimateriaali
+    sections:
+    - file: cms-avoin-data
+    - file: avoin-data-opetuksessa
