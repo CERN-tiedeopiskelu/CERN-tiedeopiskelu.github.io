@@ -2,6 +2,7 @@
 
 CMS virtuaalivierailuilla pääset tutustumaan asiantuntijoiden opastuksella CERN:n CMS-kokeeseen.
 Asiantuntijat kertovat verkon välityksellä CMS-kokeen taustalla olevasta fysiikasta sekä teknologiasta ja vastaavat esitettyihin kysymyksiin.
+
 Huom. vierailut voidaan järjestää myös **suomeksi**.
 
 <figure class="video_container">
