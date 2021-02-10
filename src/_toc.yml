@@ -10,8 +10,6 @@
   chapters:
   - file: cern-esittely
   - file: hiukkasfysiikka
-    sections:
-    - file: hf/perimeter
   - file: ohjelmointimateriaali
     sections:
     - file: ohj/cms-avoin-data
