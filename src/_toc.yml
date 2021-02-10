@@ -2,15 +2,16 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 - file: intro
 
-- part: Virtuaalivierailut
-  chapters:
-  - file: virtuaalivierailut
-
 - part: Materiaalit
   chapters:
   - file: cern-esittely
   - file: hiukkasfysiikka
   - file: ohjelmointimateriaali
-    sections:
-    - file: ohj/cms-avoin-data
-    - file: ohj/avoin-data-opetuksessa
+
+- part: Virtuaalivierailut
+  chapters:
+  - file: virtuaalivierailut
+
+- part: Osallisty kehitystyöhön
+  chapters:
+  - file: osallistu
