@@ -27,10 +27,17 @@ Paljon englanninkielistä materiaalia mm. hiukkasfysiikan aiheista löytyy Perim
 
 Esimerkiksi [Beyond the Atom: Remodelling Particle Physics](https://resources.perimeterinstitute.ca/collections/particle-physics/products/beyond-the-atom-remodelling-particle-physics)-paketti sisältää opetusvideon ja viisi aktiviteettia, kuten kuplakammiokuvien tulkintaa tai huippukvarkin etsimistä. Materiaalit ovat ilmaisia, mutta vaativat käyttäjätunnuksen tekemisen sivustolle.
 
-
 ### Beamline for Schools -kilpailu
 
-- [https://beamlineforschools.cern/](https://beamlineforschools.cern/) Beamline for schools -kilpailu
+CERN järjestää vuosittain kansainvälisen lukio-opiskelijoiden kilpailun, jossa kehitetään koe, joka voitaisiin toteuttaa hiukkaskiihdyttimellä. Voittajat pääsevät matkalle toteuttamaan oman kokeensa täysin varustellulla hiukkaskiihdyttimellä. Lisätietoja kilpailusta ja ohjeet osallistumiseen löytyy [täältä](https://beamlineforschools.cern/).
+
+Alla esite vuoden 2021 kilpailusta.
+
+[![](img/b4s.png)](https://beamlineforschools.cern/)
+
+### Lisää aktiviteetteja
+
+[Täältä](https://sites.google.com/site/306physics/particlephysics) löydät yhdysvaltalaisen lukio-opettajan tekemää hiukkasfysiikan materiaalia sisältäen aktiviteetteja, tehtäviä, tuntisuunnitelmia yms.
 
 ## Muuta
 
