@@ -14,6 +14,14 @@ Luulitko tietäväsi millaista fyysikon elämä on? Et ole varmasti nähnyt sit�
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/e0Lv2GrsXig" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
+## Higgsin bosonin löytö
+
+CERN:n fyysikko selittää kolmiosaisessa videosarjassa esimerkkien avulla mm. miten uusia hiukkasia löydetään ja miksi piikki histogrammissa selittää hiukkasen olemassaolon. 1. osan kesto 6:54, kaikki osat yhteensä n. 30min.
+
+<figure class="video_container">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/so2nCu2Jkbc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
 ## Aktiviteetit
 
 ### S'Cool LAB
