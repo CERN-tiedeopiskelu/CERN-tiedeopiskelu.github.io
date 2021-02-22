@@ -1,4 +1,4 @@
-# Hiukkasfysiikka
+# Hiukkasfysiikan opetusmateriaali
 
 ## Hiukkasseikkailu
 
@@ -6,73 +6,27 @@
 
 [![](img/particle_adventure.png)](https://particleadventure.org/index.html)
 
-## Hiukkasfyysikon päivä
-
-Luulitko tietäväsi millaista fyysikon elämä on? Et ole varmasti nähnyt sitä tällä tavalla. Videolla näet Tšekkiläisen fyysikon tyypillisen päivän seuraamalla häntä livenä sekä animaatioiden kautta ja opit samalla upeita faktoja hiukkasfysiikasta ja sen tutkimuksesta. Kesto 30:49.
-
-<figure class="video_container">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/e0Lv2GrsXig" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
-
 ## Higgsin bosonin löytö
 
-CERN:n fyysikko selittää kolmiosaisessa videosarjassa esimerkkien avulla mm. miten uusia hiukkasia löydetään ja miksi piikki histogrammissa selittää hiukkasen olemassaolon. 1. osan kesto 6:54, kaikki osat yhteensä n. 30min.
+CERN:n fyysikko selittää kolmiosaisessa videosarjassa esimerkkien avulla mm. miten uusia hiukkasia löydetään ja miksi piikki histogrammissa selittää hiukkasen olemassaolon.
 
-- Osa 1: [https://www.youtube.com/watch?v=so2nCu2Jkbc](https://www.youtube.com/watch?v=so2nCu2Jkbc)
+- Osa 1: [https://www.youtube.com/watch?v=so2nCu2Jkbc](https://www.youtube.com/watch?v=so2nCu2Jkbc) (Kesto 6:54)
 <figure class="video_container">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/so2nCu2Jkbc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="808" height="454.5" src="https://www.youtube.com/embed/so2nCu2Jkbc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
-- Osa 2: [https://www.youtube.com/watch?v=pW4LTunlXS4](https://www.youtube.com/watch?v=pW4LTunlXS4)
-- Osa 3: [https://www.youtube.com/watch?v=8-WFBGCvv-w](https://www.youtube.com/watch?v=8-WFBGCvv-w)
-- Osa 3.5: [https://www.youtube.com/watch?v=0USWORsTza0](https://www.youtube.com/watch?v=0USWORsTza0)
+- Osa 2: [https://www.youtube.com/watch?v=pW4LTunlXS4](https://www.youtube.com/watch?v=pW4LTunlXS4) (Kesto 7:13)
+- Osa 3: [https://www.youtube.com/watch?v=8-WFBGCvv-w](https://www.youtube.com/watch?v=8-WFBGCvv-w) (Kesto 12:30)
+- Osa 3.5: [https://www.youtube.com/watch?v=0USWORsTza0](https://www.youtube.com/watch?v=0USWORsTza0) (Kesto 7:49)
 	- Vastauksia katsojien kysymyksiin
-
-## Aktiviteetit
-
-### S'Cool LAB
-
-[S'Cool LAB](https://scoollab.web.cern.ch/) on fysiikan koulutuksen tutkimuskeskus CERN:ssä. Se tarjoaa lukiolaisille ja heidän opettajilleen työpajoja CERN-vierailuilla, mutta myös [aktiviteettiehdotuksia](https://scoollab.web.cern.ch/classroom-activities) luokkahuoneessa toteutettaviksi. Aktiviteetteihin kuuluu mm. erilaisia [3D-printattavia](https://scoollab.web.cern.ch/laserlab3D) koejärjestelmiä, [ohjeet](https://scoollab.web.cern.ch/cloud-chamber) kotitekoisen sumukammion tekemiseen tai [kuplakammiokuvia](https://scoollab.web.cern.ch/bubble-chamber-pictures-classroom) tutkittavaksi. 
-
-
-### Perimeter Institute
-
-Paljon englanninkielistä materiaalia mm. hiukkasfysiikan aiheista löytyy Perimeter Institute:n sivuilta: [https://resources.perimeterinstitute.ca/collections/particle-physics](https://resources.perimeterinstitute.ca/collections/particle-physics).
-
-Esimerkiksi [Beyond the Atom: Remodelling Particle Physics](https://resources.perimeterinstitute.ca/collections/particle-physics/products/beyond-the-atom-remodelling-particle-physics)-paketti sisältää opetusvideon ja viisi aktiviteettia, kuten kuplakammiokuvien tulkintaa tai huippukvarkin etsimistä. Materiaalit ovat ilmaisia, mutta vaativat käyttäjätunnuksen tekemisen sivustolle.
-
-### Beamline for Schools -kilpailu
-
-CERN järjestää vuosittain kansainvälisen lukio-opiskelijoiden kilpailun, jossa kehitetään koe, joka voitaisiin toteuttaa hiukkaskiihdyttimellä. Voittajat pääsevät matkalle toteuttamaan oman kokeensa täysin varustellulla hiukkaskiihdyttimellä. Lisätietoja kilpailusta ja ohjeet osallistumiseen löytyy [täältä](https://beamlineforschools.cern/).
-
-Alla esite vuoden 2021 kilpailusta.
-
-[![](img/b4s.png)](https://beamlineforschools.cern/)
-
-### Lisää aktiviteetteja
-
-[Täältä](https://sites.google.com/site/306physics/particlephysics) löydät yhdysvaltalaisen lukio-opettajan tekemää hiukkasfysiikan materiaalia sisältäen aktiviteetteja, tehtäviä, tuntisuunnitelmia yms.
 
 ## Muuta
 
 Lisää englanninkielistä materiaalia:
 
-[https://particleadventure.org/index.html](https://particleadventure.org/index.html)
-
-[https://sites.google.com/site/306physics/home](https://sites.google.com/site/306physics/home)
-
 [https://ippog.org/](https://ippog.org/)
-
-[https://iopscience.iop.org/article/10.1088/1742-6596/1287/1/012045/meta](https://iopscience.iop.org/article/10.1088/1742-6596/1287/1/012045/meta)
 
 [http://physicsmasterclasses.org/index.php?cat=country](http://physicsmasterclasses.org/index.php?cat=country)
 
 [https://quarknet.org/data-portfolio](https://quarknet.org/data-portfolio)
 
-demot: 
-
-- [https://www.youtube.com/watch?v=Cw6dvCwfyuU](https://www.youtube.com/watch?v=Cw6dvCwfyuU) Rutherfordin koe
-
-	<figure class="video_container">
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/Cw6dvCwfyuU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	</figure>
