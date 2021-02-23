@@ -9,7 +9,7 @@
 [CERN](https://home.cern/), eli Euroopan hiukkasfysiikan tutkimuskeskus sijaitsee Ranskan ja Sveitsin rajalla lähellä Geneveä.
 Se on vuonna 1954 perustettu kansainvälinen organisaatio, johon kuuluu 23 varsinaista jäsenmaata, mukaanlukien Suomi.
 CERN:ssä yritetään selvittää, mistä maailmankaikkeutemme koostuu ja miten se toimii.
-Aineen pienimpien rakenneosasten tutkiminen onnistuu kiihdyttämällä ja törmäyttämällä hiukkasia hiukkaskiihdyttimissä.
+Aineen pienimpien rakenneosasten tutkiminen onnistuu kiihdyttämällä ja törmäyttämällä hiukkasia hiukkaskiihdyttimessä.
 Hiukkasten törmätessä toisiinsa lähes valonnopeudella syntyy valtava määrä energiaa, joka voi muuttua uusiksi hiukkasiksi.
 Näitä törmäystapahtumissa syntyneitä hiukkasia ja niiden ominaisuuksia tutkitaan hiukkasilmaisimilla.
 
@@ -42,7 +42,7 @@ Opi lisää CMS-kokeesta alla olevan esittelyvideon avulla (Kesto 7:25).
 
 ## Hiukkasfyysikon päivä
 
-Luulitko tietäväsi millaista fyysikon elämä on? Et ole varmasti nähnyt sitä tällä tavalla. Videolla näet Tšekkiläisen fyysikon tyypillisen päivän seuraamalla häntä livenä sekä animaatioiden kautta ja opit samalla upeita faktoja hiukkasfysiikasta ja sen tutkimuksesta. Kesto 30:49.
+Luulitko tietäväsi millaista fyysikon elämä on? Et ole varmasti nähnyt sitä tällä tavalla. Videolla näet Tšekkiläisen fyysikon tyypillisen päivän seuraamalla häntä livenä sekä animaatioiden kautta ja opit samalla upeita faktoja hiukkasfysiikasta ja sen tutkimuksesta (Kesto 30:49).
 
 <figure class="video_container">
     <iframe width="808" height="454.5" src="https://www.youtube.com/embed/e0Lv2GrsXig" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
