@@ -13,32 +13,45 @@ Aineen pienimpien rakenneosasten tutkiminen onnistuu kiihdyttämällä ja törm�
 Hiukkasten törmätessä toisiinsa lähes valonnopeudella syntyy valtava määrä energiaa, joka voi muuttua uusiksi hiukkasiksi.
 Näitä törmäystapahtumissa syntyneitä hiukkasia ja niiden ominaisuuksia tutkitaan hiukkasilmaisimilla.
 
-Alapuolella on kuva hiukkasfysiikan standardimallin mukaisista alkeishiukkasista, eli sellaisista hiukkasista, joita ei voida enää pilkkoa pienempiin osiin.
-Vuonna 2012 CERN:ssä löydettiin mallin uusin hiukkanen, Higgsin bosoni.
-
-![](img/standardimalli.png)
-*Standardimallin alkeishiukkaset (Credit: CERN)*
-
 ## LHC
+
+<figure class="video_container">
+    <iframe width="808" height="454.5" src="https://www.youtube.com/embed/pQhbhpU9Wrg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <figcaption>Animaatio LHC:n toiminnasta (Kesto 2:52)</figcaption>
+</figure>
+
 
 LHC (Large Hadron Collider), eli suuri hadronitörmäytin, on CERN:ssä sijaitseva maailman suurin hiukkaskiihdytin.
 Se on 27km pitkä synkrotronikiihdytin, jossa kiihdytetään pääasiassa protoneja.
-Protonit liikkuvat LHC:n sisällä kahdessa eri putkessa ja törmäävät neljässä eri kohdassa LHC:n kehällä.
-Näissä kohdissa sijaitsevat hiukkasilmaisimet CMS, ATLAS, ALICE ja LHCb.
-
-Alla olevan animaation avulla voit katsoa, miten LHC toimii (Kesto 2:52).
-    <figure class="video_container">
-        <iframe width="808" height="454.5" src="https://www.youtube.com/embed/pQhbhpU9Wrg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </figure>
+Protonit ovat peräisin vetykaasupullosta ionisoimalla vetyä sähkökentän avulla.
+Ennen kuin protonit ohjataan LHC:hen, ne ohjataan esikiihdytettäviksi useammalle eri esikiihdyttimelle.
+LHC:hen saapuessaan protonit ovat saavuttaneet jo 450 GeV energian.
+Protonit kulkevat LHC:n sisällä kahdessa vastakkaisiin suuntiin kulkevassa protonisäteessä.
+Molemmat säteet sisältävät tasaisin välein 2808 protonikimppua, jossa kussakin on noin $ 1.2\cdot 10^{11} $ protonia.
+Kimput ohjataan törmäämään toisiinsa neljällä eri koeasemalla eri puolilla LHC:ta.
+Vaikka kimpuissa on valtava määrä protoneita ja kimpun läpimitta on ainoastaan ihmisen hiuksen luokkaa, kahden kimpun kohdatessa syntyy ainoastaan joitakin kymmeniä törmäystapahtumia.
+Protonit kulkevat kuitenkin lähestulkoon valonnopeudella, joten LHC:ssa tapahtuu noin miljardi törmäystä joka sekunti.
 
 ## CMS
 
-CMS (Compact Muon Solenoid) on yksi LHC:n neljästä hiukkasilmaisimesta. Se on sylinterimäinen 21 metriä pitkä ja 15 metriä halkaisijaltaan oleva ilmaisin, joka on nimensä mukaisesti kompakti siihen nähden, kuinka paljon laitteistoa siitä löytyy. 
+<figure class="video_container">
+    <iframe width="808" height="454.5" src="https://www.youtube.com/embed/S99d9BQmGB0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <figcaption>Esittelyvideo CMS-kokeen toiminnasta (Kesto 7:25)</figcaption>
+</figure>
 
-Opi lisää CMS-kokeesta alla olevan esittelyvideon avulla (Kesto 7:25).
-        <figure class="video_container">
-            <iframe width="808" height="454.5" src="https://www.youtube.com/embed/S99d9BQmGB0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </figure>
+CMS (Compact Muon Solenoid) on yksi LHC:n neljästä hiukkasilmaisimesta.
+Se on sylinterimäinen 21 metriä pitkä ja 15 metriä halkaisijaltaan oleva massiivinen laite, mutta on nimensä mukaisesti kompakti siihen nähden, kuinka paljon laitteistoa siitä löytyy.
+Ilmaisimessa on useita kerroksia, joissa törmäystapahtumissa syntyneet eri tyyppiset hiukkaset voidaan tunnistaa.
+Voit tutustua kattavasti CMS-koeasemaan ja sen toimintaan [täältä](https://cms-docdb.cern.ch/cgi-bin/PublicDocDB/RetrieveFile?docid=12398&filename=SetOfPostersFN_HQ_small_16092014.pdf).
+
+Alla olevasta kuvasta voit myös tutustua CMS-ilmaisimen kerroksiin ja toimintaan.
+Kuvassa on poikkileikkaus ilmaisimesta, johon on piirretty eri tyyppisten hiukkasten radat ilmaisimessa.
+Törmäys tapahtuu kuvan vasemmassa reunassa olevan ympyrän keskellä.
+Protonisäteistä toinen kulkee ulospäin tasosta ja toinen tason sisään.
+Kuvasta nähdään, että esimerkiksi varatut hadronit kaareutuvat ilmaisimen magneettikentässä ja pysähtyvät hadronikalorimetriin.
+
+![](/img/CMS_Slice.gif)
+*Poikkileikkaus CMS-ilmaisimen kerroksista. (Credit: CERN)*
 
 ## Hiukkasfyysikon päivä
 
