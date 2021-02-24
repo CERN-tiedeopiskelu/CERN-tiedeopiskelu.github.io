@@ -6,6 +6,12 @@
 	<iframe width="808" height="454.5" src="https://www.youtube.com/embed/ehHoOYqAT_U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
+Alapuolella on kuva hiukkasfysiikan standardimallin mukaisista alkeishiukkasista, eli sellaisista hiukkasista, joita ei voida enää pilkkoa pienempiin osiin.
+Vuonna 2012 CERN:ssä löydettiin mallin uusin hiukkanen, Higgsin bosoni.
+
+![](img/standardimalli.png)
+*Standardimallin alkeishiukkaset (Credit: CERN)*
+
 ## Hiukkasseikkailu
 
 [The Particle Adventure](https://particleadventure.org/index.html) on interaktiivinen sukellus kvarkkien, neutriinojen, antimaterian, pimeän aineen sekä hiukkaskiihdyttimien ja -ilmaisimien maailmaan. Sivustolta löytyy valtava määrä tietoa, jonka avulla voi perehtyä hiukkasfysiikkaan.

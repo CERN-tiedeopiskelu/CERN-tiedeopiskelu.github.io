@@ -31,6 +31,7 @@
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="_static/custom.css" />
     <link rel="stylesheet" type="text/css" href="_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
     <link rel="stylesheet" type="text/css" href="_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
     
@@ -52,6 +53,8 @@
         const thebe_selector_output = ".output"
     </script>
     <script async="async" src="_static/sphinx-thebe.js"></script>
+    <script async="async" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script type="text/x-mathjax-config">MathJax.Hub.Config({"tex2jax": {"inlineMath": [["\\(", "\\)"]], "displayMath": [["\\[", "\\]"]], "processRefs": false, "processEnvironments": false}})</script>
     <link rel="canonical" href="https://CERN-tiedeopiskelu.github.io/cern-esittely.html" />
     <link rel="shortcut icon" href="_static/favicon.png"/>
     <link rel="index" title="Index" href="genindex.html" />
@@ -273,29 +276,41 @@ CERN:ssä yritetään selvittää, mistä maailmankaikkeutemme koostuu ja miten 
 Aineen pienimpien rakenneosasten tutkiminen onnistuu kiihdyttämällä ja törmäyttämällä hiukkasia hiukkaskiihdyttimessä.
 Hiukkasten törmätessä toisiinsa lähes valonnopeudella syntyy valtava määrä energiaa, joka voi muuttua uusiksi hiukkasiksi.
 Näitä törmäystapahtumissa syntyneitä hiukkasia ja niiden ominaisuuksia tutkitaan hiukkasilmaisimilla.</p>
-<p>Alapuolella on kuva hiukkasfysiikan standardimallin mukaisista alkeishiukkasista, eli sellaisista hiukkasista, joita ei voida enää pilkkoa pienempiin osiin.
-Vuonna 2012 CERN:ssä löydettiin mallin uusin hiukkanen, Higgsin bosoni.</p>
-<p><img alt="" src="_images/standardimalli.png" />
-<em>Standardimallin alkeishiukkaset (Credit: CERN)</em></p>
 </div>
 <div class="section" id="lhc">
 <h2>LHC<a class="headerlink" href="#lhc" title="Permalink to this headline">¶</a></h2>
+<figure class="video_container">
+    <iframe width="808" height="454.5" src="https://www.youtube.com/embed/pQhbhpU9Wrg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <figcaption>Animaatio LHC:n toiminnasta (Kesto 2:52)</figcaption>
+</figure>
 <p>LHC (Large Hadron Collider), eli suuri hadronitörmäytin, on CERN:ssä sijaitseva maailman suurin hiukkaskiihdytin.
 Se on 27km pitkä synkrotronikiihdytin, jossa kiihdytetään pääasiassa protoneja.
-Protonit liikkuvat LHC:n sisällä kahdessa eri putkessa ja törmäävät neljässä eri kohdassa LHC:n kehällä.
-Näissä kohdissa sijaitsevat hiukkasilmaisimet CMS, ATLAS, ALICE ja LHCb.</p>
-<p>Alla olevan animaation avulla voit katsoa, miten LHC toimii (Kesto 2:52).
-<figure class="video_container">
-<iframe width="808" height="454.5" src="https://www.youtube.com/embed/pQhbhpU9Wrg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure></p>
+Protonit ovat peräisin vetykaasupullosta ionisoimalla vetyä sähkökentän avulla.
+Ennen kuin protonit ohjataan LHC:hen, ne ohjataan esikiihdytettäviksi useammalle eri esikiihdyttimelle.
+LHC:hen saapuessaan protonit ovat saavuttaneet jo 450 GeV energian.
+Protonit kulkevat LHC:n sisällä kahdessa vastakkaisiin suuntiin kulkevassa protonisäteessä.
+Molemmat säteet sisältävät tasaisin välein 2808 protonikimppua, jossa kussakin on noin <span class="math notranslate nohighlight">\( 1.2\cdot 10^{11} \)</span> protonia.
+Kimput ohjataan törmäämään toisiinsa neljällä eri koeasemalla eri puolilla LHC:ta.
+Vaikka kimpuissa on valtava määrä protoneita ja kimpun läpimitta on ainoastaan ihmisen hiuksen luokkaa, kahden kimpun kohdatessa syntyy ainoastaan joitakin kymmeniä törmäystapahtumia.
+Protonit kulkevat kuitenkin lähestulkoon valonnopeudella, joten LHC:ssa tapahtuu noin miljardi törmäystä joka sekunti.</p>
 </div>
 <div class="section" id="cms">
 <h2>CMS<a class="headerlink" href="#cms" title="Permalink to this headline">¶</a></h2>
-<p>CMS (Compact Muon Solenoid) on yksi LHC:n neljästä hiukkasilmaisimesta. Se on sylinterimäinen 21 metriä pitkä ja 15 metriä halkaisijaltaan oleva ilmaisin, joka on nimensä mukaisesti kompakti siihen nähden, kuinka paljon laitteistoa siitä löytyy.</p>
-<p>Opi lisää CMS-kokeesta alla olevan esittelyvideon avulla (Kesto 7:25).
 <figure class="video_container">
-<iframe width="808" height="454.5" src="https://www.youtube.com/embed/S99d9BQmGB0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure></p>
+    <iframe width="808" height="454.5" src="https://www.youtube.com/embed/S99d9BQmGB0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <figcaption>Esittelyvideo CMS-kokeen toiminnasta (Kesto 7:25)</figcaption>
+</figure>
+<p>CMS (Compact Muon Solenoid) on yksi LHC:n neljästä hiukkasilmaisimesta.
+Se on sylinterimäinen 21 metriä pitkä ja 15 metriä halkaisijaltaan oleva massiivinen laite, mutta on nimensä mukaisesti kompakti siihen nähden, kuinka paljon laitteistoa siitä löytyy.
+Ilmaisimessa on useita kerroksia, joissa törmäystapahtumissa syntyneet eri tyyppiset hiukkaset voidaan tunnistaa.
+Voit tutustua kattavasti CMS-koeasemaan ja sen toimintaan <a class="reference external" href="https://cms-docdb.cern.ch/cgi-bin/PublicDocDB/RetrieveFile?docid=12398&amp;filename=SetOfPostersFN_HQ_small_16092014.pdf">täältä</a>.</p>
+<p>Alla olevasta kuvasta voit myös tutustua CMS-ilmaisimen kerroksiin ja toimintaan.
+Kuvassa on poikkileikkaus ilmaisimesta, johon on piirretty eri tyyppisten hiukkasten radat ilmaisimessa.
+Törmäys tapahtuu kuvan vasemmassa reunassa olevan ympyrän keskellä.
+Protonisäteistä toinen kulkee ulospäin tasosta ja toinen tason sisään.
+Kuvasta nähdään, että esimerkiksi varatut hadronit kaareutuvat ilmaisimen magneettikentässä ja pysähtyvät hadronikalorimetriin.</p>
+<p><img alt="" src="_images/CMS_Slice.gif" />
+<em>Poikkileikkaus CMS-ilmaisimen kerroksista. (Credit: CERN)</em></p>
 </div>
 <div class="section" id="hiukkasfyysikon-paiva">
 <h2>Hiukkasfyysikon päivä<a class="headerlink" href="#hiukkasfyysikon-paiva" title="Permalink to this headline">¶</a></h2>
@@ -344,7 +359,7 @@ Näissä kohdissa sijaitsevat hiukkasilmaisimet CMS, ATLAS, ALICE ja LHCb.</p>
         
           By HIP Education and Open Data Team<br/>
         
-          Last updated on 23.02.2021.<br/>
+          Last updated on 24.02.2021.<br/>
           <div class="extra_footer">
             <div>
 <a>Toteutettu Opetushallituksen valtionavustuksella.</a></br><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img class="license" alt="Creative Commons License" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a> Tämän sivuston materiaali on käytettävissä seuraavalla lisenssillä: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY 4.0.</a>
