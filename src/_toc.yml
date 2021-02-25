@@ -7,12 +7,18 @@
   - file: cern-esittely
   - file: hiukkasfysiikka
   - file: ohjelmointimateriaali
-  - file: artikkelit
+  - file: muu
+    sections:
+      - file: opettajilta
+      - file: artikkelit
 
-- part: Virtuaalivierailut
+- part: Aktiviteetit
   chapters:
+  - file: aktiviteetit
+  - file: tiedeleirit
+  - file: kouluvierailut
   - file: virtuaalivierailut
 
-- part: Osallisty kehitystyöhön
+- part: Osallistu kehitystyöhön
   chapters:
   - file: osallistu

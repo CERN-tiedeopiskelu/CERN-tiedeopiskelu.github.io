@@ -60,3 +60,15 @@ Luulitko tietäväsi millaista fyysikon elämä on? Et ole varmasti nähnyt sit�
 <figure class="video_container">
     <iframe width="808" height="454.5" src="https://www.youtube.com/embed/e0Lv2GrsXig" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
+
+## Linkkejä
+
+ ```{list-table}
+---
+header-rows: 0
+name: example-table
+---
+
+* - Miten tekoälyä hyödynnetään CERN:ssä?
+   - [https://www.youtube.com/watch?v=2pn4CzFf7CY](https://www.youtube.com/watch?v=2pn4CzFf7CY)
+```

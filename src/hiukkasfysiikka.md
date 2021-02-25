@@ -1,44 +1,66 @@
-# Hiukkasfysiikan opetusmateriaali
+# Hiukkasfysiikka
 
 ## Hiukkasfysiikan standardimalli
 
 <figure class="video_container">
-	<iframe width="808" height="454.5" src="https://www.youtube.com/embed/ehHoOYqAT_U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="808" height="454.5" src="https://www.youtube.com/embed/ehHoOYqAT_U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
-Alapuolella on kuva hiukkasfysiikan standardimallin mukaisista alkeishiukkasista, eli sellaisista hiukkasista, joita ei voida enää pilkkoa pienempiin osiin.
-Vuonna 2012 CERN:ssä löydettiin mallin uusin hiukkanen, Higgsin bosoni.
+Hiukkasfysiikka tutkii aineen pienimpiä rakennuspalikoita ja näiden välisiä vuorovaikutuksia.
+Kaikki alkuaineet voidaan rakentaa ainoastaan kolmen hiukkasen - protonin, neutronin ja elektronin - avulla.
+Protonit ja neutronit koostuvat kuitenkin vielä pienemmistä hiukkasista, kvarkeista.
+Teoriaa, joka kuvaa aineen pienimpiä rakennusosia sekä niiden välisiä vuorovaikutuksia, kutsutaan hiukkasfysiikan standardimalliksi.
+Standardimallin kuvaamat alkeishiukkaset voidaan jakaa ainehiukkasiin (fermionit) ja välittäjähiukkasiin (bosonit).
+Standarimallin mukaan fermioneja ovat kvarkit (ylös, alas, outo, lumo, huippu, pohja) ja leptonit (elektroni, myoni, tau, sekä näitä vastaavat neutriinot).
+Kaikilla fermioneilla on lisäksi antihiukkanen, esimerkiksi elektronin antihiukkanen on positroni.
+Bosoneihin puolestaan kuuluvat fotoni, Ẃ- ja Z-bosonit, gluoni sekä Higgsin bosoni.
+
+Alla olevaan kuvaan on koottu hiukkasfysiikan standardimallin mukaiset hiukkaset.
+Mallin uusin tulokas, Higgsin bosoni, löydettiin CERN:ssä vuonna 2012.
 
 ![](img/standardimalli.png)
 *Standardimallin alkeishiukkaset (Credit: CERN)*
 
+### Perusvuorovaikutukset
+
+teksti
+
+### Standardimallin haasteet
+
+gravitoni, pimeä aine, antiaine, ...
+
 ## Hiukkasseikkailu
 
-[The Particle Adventure](https://particleadventure.org/index.html) on interaktiivinen sukellus kvarkkien, neutriinojen, antimaterian, pimeän aineen sekä hiukkaskiihdyttimien ja -ilmaisimien maailmaan. Sivustolta löytyy valtava määrä tietoa, jonka avulla voi perehtyä hiukkasfysiikkaan.
+<a href="https://particleadventure.org/index.html" target="_blank">The Particle Adventure</a> on interaktiivinen sukellus kvarkkien, neutriinojen, antimaterian, pimeän aineen sekä hiukkaskiihdyttimien ja -ilmaisimien maailmaan. Sivustolta löytyy valtava määrä tietoa, jonka avulla voi perehtyä tarkemmin mm. standardimalliin, hiukkaskiihdyttimiin ja -ilmaisimiin tai hiukkasfysiikan selvittämättömiin kysymyksiin.
 
-[![](img/particle_adventure.png)](https://particleadventure.org/index.html)
+<a href="https://particleadventure.org/index.html" target="_blank">![](img/particle_adventure.png)</a>
 
 ## Higgsin bosonin löytö
 
 CERN:n fyysikko selittää kolmiosaisessa videosarjassa esimerkkien avulla mm. miten uusia hiukkasia löydetään ja miksi piikki histogrammissa selittää hiukkasen olemassaolon.
 
-- Osa 1: [https://www.youtube.com/watch?v=so2nCu2Jkbc](https://www.youtube.com/watch?v=so2nCu2Jkbc) (Kesto 6:54)
+- Osa 1: <a href="https://www.youtube.com/watch?v=so2nCu2Jkbc" target="_blank">https://www.youtube.com/watch?v=so2nCu2Jkbc</a> (Kesto 6:54)
 <figure class="video_container">
-	<iframe width="808" height="454.5" src="https://www.youtube.com/embed/so2nCu2Jkbc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="808" height="454.5" src="https://www.youtube.com/embed/so2nCu2Jkbc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
-- Osa 2: [https://www.youtube.com/watch?v=pW4LTunlXS4](https://www.youtube.com/watch?v=pW4LTunlXS4) (Kesto 7:13)
-- Osa 3: [https://www.youtube.com/watch?v=8-WFBGCvv-w](https://www.youtube.com/watch?v=8-WFBGCvv-w) (Kesto 12:30)
-- Osa 3.5: [https://www.youtube.com/watch?v=0USWORsTza0](https://www.youtube.com/watch?v=0USWORsTza0) (Kesto 7:49)
-	- Vastauksia katsojien kysymyksiin
+- Osa 2: <a href="https://www.youtube.com/watch?v=pW4LTunlXS4" target="_blank">https://www.youtube.com/watch?v=pW4LTunlXS4</a> (Kesto 7:13)
+- Osa 3: <a href="https://www.youtube.com/watch?v=8-WFBGCvv-w" target="_blank">https://www.youtube.com/watch?v=8-WFBGCvv-w</a> (Kesto 12:30)
+- Osa 3.5: <a href="https://www.youtube.com/watch?v=0USWORsTza0" target="_blank">https://www.youtube.com/watch?v=0USWORsTza0</a> (Kesto 7:49)
+    - Vastauksia katsojien kysymyksiin
 
-## Muuta
+## Linkkejä
 
-Lisää englanninkielistä materiaalia:
+ ```{list-table}
+---
+header-rows: 0
+name: example-table
+---
 
-[https://ippog.org/](https://ippog.org/)
-
-[http://physicsmasterclasses.org/index.php?cat=country](http://physicsmasterclasses.org/index.php?cat=country)
-
-[https://quarknet.org/data-portfolio](https://quarknet.org/data-portfolio)
-
+* - 
+   - <a href="https://ippog.org/" target="_blank">https://ippog.org/</a>
+* - 
+   - <a href="http://physicsmasterclasses.org/index.php?cat=country" target="_blank">http://physicsmasterclasses.org/index.php?cat=country</a>
+* - 
+   - <a href="https://quarknet.org/data-portfolio" target="_blank">https://quarknet.org/data-portfolio</a>
+```
