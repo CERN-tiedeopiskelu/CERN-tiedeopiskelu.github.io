@@ -6,7 +6,7 @@
         <iframe width="808" height="454.5" src="https://www.youtube.com/embed/i0qjDZH-p7E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
-[CERN](https://home.cern/), eli Euroopan hiukkasfysiikan tutkimuskeskus sijaitsee Ranskan ja Sveitsin rajalla lähellä Geneveä.
+<a href="https://home.cern/" target="_blank">CERN</a>, eli Euroopan hiukkasfysiikan tutkimuskeskus sijaitsee Ranskan ja Sveitsin rajalla lähellä Geneveä.
 Se on vuonna 1954 perustettu kansainvälinen organisaatio, johon kuuluu 23 varsinaista jäsenmaata, mukaanlukien Suomi.
 CERN:ssä yritetään selvittää, mistä maailmankaikkeutemme koostuu ja miten se toimii.
 Aineen pienimpien rakenneosasten tutkiminen onnistuu kiihdyttämällä ja törmäyttämällä hiukkasia hiukkaskiihdyttimessä.
@@ -42,7 +42,7 @@ Protonit kulkevat kuitenkin lähestulkoon valonnopeudella, joten LHC:ssa tapahtu
 CMS (Compact Muon Solenoid) on yksi LHC:n neljästä hiukkasilmaisimesta.
 Se on sylinterimäinen 21 metriä pitkä ja 15 metriä halkaisijaltaan oleva massiivinen laite, mutta on nimensä mukaisesti kompakti siihen nähden, kuinka paljon laitteistoa siitä löytyy.
 Ilmaisimessa on useita kerroksia, joissa törmäystapahtumissa syntyneet eri tyyppiset hiukkaset voidaan tunnistaa.
-Voit tutustua kattavasti CMS-koeasemaan ja sen toimintaan [täältä](https://cms-docdb.cern.ch/cgi-bin/PublicDocDB/RetrieveFile?docid=12398&filename=SetOfPostersFN_HQ_small_16092014.pdf).
+Voit tutustua kattavasti CMS-koeasemaan ja sen toimintaan <a href="https://cms-docdb.cern.ch/cgi-bin/PublicDocDB/RetrieveFile?docid=12398&filename=SetOfPostersFN_HQ_small_16092014.pdf" target="_blank">täältä</a>.
 
 Alla olevasta kuvasta voit myös tutustua CMS-ilmaisimen kerroksiin ja toimintaan.
 Kuvassa on poikkileikkaus ilmaisimesta, johon on piirretty eri tyyppisten hiukkasten radat ilmaisimessa.
@@ -70,5 +70,7 @@ name: example-table
 ---
 
 * - Miten tekoälyä hyödynnetään CERN:ssä?
-   - [https://www.youtube.com/watch?v=2pn4CzFf7CY](https://www.youtube.com/watch?v=2pn4CzFf7CY)
+   - <a href="https://www.youtube.com/watch?v=2pn4CzFf7CY" target="_blank">https://www.youtube.com/watch?v=2pn4CzFf7CY</a>
+* - Millaista on olla jatko-opiskelijana CERN:ssä? Tohtorikoulutettava kertoo työstään antimaterian parissa.
+   - <a href="https://www.youtube.com/watch?v=Tw1Ef-dzU4w" target="_blank">https://www.youtube.com/watch?v=Tw1Ef-dzU4w</a>
 ```
