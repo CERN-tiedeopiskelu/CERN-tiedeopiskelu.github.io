@@ -26,7 +26,7 @@
 
     
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
-    <link rel="stylesheet" href="_static/sphinx-book-theme.40e2e510f6b7d1648584402491bb10fe.css" type="text/css" />
+    <link rel="stylesheet" href="_static/sphinx-book-theme.37f24b989f4638ff9c27c22dc7559d4f.css" type="text/css" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
@@ -45,7 +45,7 @@
     <script src="_static/clipboard.min.js"></script>
     <script src="_static/copybutton.js"></script>
     <script >var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="_static/sphinx-book-theme.d31b09fe5c1d09cb49b26a786de4a05d.js"></script>
+    <script src="_static/sphinx-book-theme.7d483ff0a819d6edff12ce0b1ead3928.js"></script>
     <script async="async" src="https://unpkg.com/thebelab@latest/lib/index.js"></script>
     <script >
         const thebe_selector = ".thebe"
@@ -161,7 +161,7 @@
  </li>
  <li class="toctree-l1">
   <a class="reference internal" href="virtuaalivierailut.html">
-   CMS virtuaalivierailut
+   Virtuaalivierailut ja -tapaamiset
   </a>
  </li>
 </ul>
@@ -193,21 +193,21 @@
           
 <main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
     
-    <div class="row topbar fixed-top container-xl">
-    <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show">
-    </div>
-    <div class="col pl-2 topbar-main">
-        
-        <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
-            data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
-            aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
-            title="Toggle navigation" data-toggle="tooltip" data-placement="left">
-            <i class="fas fa-bars"></i>
-            <i class="fas fa-arrow-left"></i>
-            <i class="fas fa-arrow-up"></i>
-        </button>
-        
-        
+    <div class="topbar container-xl fixed-top">
+    <div class="topbar-contents row">
+        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
+        <div class="col pl-md-4 topbar-main">
+            
+            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
+                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
+                aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
+                title="Toggle navigation" data-toggle="tooltip" data-placement="left">
+                <i class="fas fa-bars"></i>
+                <i class="fas fa-arrow-left"></i>
+                <i class="fas fa-arrow-up"></i>
+            </button>
+            
+            
 <div class="dropdown-buttons-trigger">
     <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
             class="fas fa-download"></i></button>
@@ -225,7 +225,7 @@
     </div>
 </div>
 
-        <!-- Source interaction buttons -->
+            <!-- Source interaction buttons -->
 
 <div class="dropdown-buttons-trigger">
     <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn"
@@ -241,19 +241,19 @@
 </div>
 
 
-        <!-- Full screen (wrap in <a> to have style consistency -->
-        <a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
-                data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
-                title="Fullscreen mode"><i
-                    class="fas fa-expand"></i></button></a>
+            <!-- Full screen (wrap in <a> to have style consistency -->
+            <a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
+                    data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
+                    title="Fullscreen mode"><i
+                        class="fas fa-expand"></i></button></a>
 
-        <!-- Launch buttons -->
+            <!-- Launch buttons -->
 
-    </div>
+        </div>
 
-    <!-- Table of contents -->
-    <div class="d-none d-md-block col-md-2 bd-toc show">
-        
+        <!-- Table of contents -->
+        <div class="d-none d-md-block col-md-2 bd-toc show">
+            
         <div class="tocsection onthispage pt-5 pb-3">
             <i class="fas fa-list"></i> Contents
         </div>
@@ -264,11 +264,6 @@
    Hiukkasfysiikan standardimalli
   </a>
   <ul class="nav section-nav flex-column">
-   <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#perusvuorovaikutukset">
-     Perusvuorovaikutukset
-    </a>
-   </li>
    <li class="toc-h3 nav-item toc-entry">
     <a class="reference internal nav-link" href="#standardimallin-haasteet">
      Standardimallin haasteet
@@ -295,6 +290,7 @@
 
         </nav>
         
+        </div>
     </div>
 </div>
     <div id="main-content" class="row">
@@ -312,22 +308,28 @@
 <p>Hiukkasfysiikka tutkii aineen pienimpiä rakennuspalikoita ja näiden välisiä vuorovaikutuksia.
 Kaikki alkuaineet voidaan rakentaa ainoastaan kolmen hiukkasen - protonin, neutronin ja elektronin - avulla.
 Protonit ja neutronit koostuvat kuitenkin vielä pienemmistä hiukkasista, kvarkeista.
+Tarkemmin sanottuna protoni koostuu kahdesta ylös-kvarkista ja yhdestä alas-kvarkista ja vastaavasti neutroni koostuu kahdesta alas-kvarkista ja yhdestä ylös-kvarkista.
 Teoriaa, joka kuvaa aineen pienimpiä rakennusosia sekä niiden välisiä vuorovaikutuksia, kutsutaan hiukkasfysiikan standardimalliksi.
-Standardimallin kuvaamat alkeishiukkaset voidaan jakaa ainehiukkasiin (fermionit) ja välittäjähiukkasiin (bosonit).
-Standarimallin mukaan fermioneja ovat kvarkit (ylös, alas, outo, lumo, huippu, pohja) ja leptonit (elektroni, myoni, tau, sekä näitä vastaavat neutriinot).
+Standardimallin kuvaamat alkeishiukkaset voidaan jakaa fermionit ja bosonit.
+Standarimallin mukaan fermioneja, joita joskus kutsutaan myös ainehiukkasiksi, ovat kvarkit (ylös, alas, outo, lumo, huippu, pohja) ja leptonit (elektroni, myoni, tau, sekä näitä vastaavat neutriinot).
 Kaikilla fermioneilla on lisäksi antihiukkanen, esimerkiksi elektronin antihiukkanen on positroni.
-Bosoneihin puolestaan kuuluvat fotoni, Ẃ- ja Z-bosonit, gluoni sekä Higgsin bosoni.</p>
-<p>Alla olevaan kuvaan on koottu hiukkasfysiikan standardimallin mukaiset hiukkaset.
-Mallin uusin tulokas, Higgsin bosoni, löydettiin CERN:ssä vuonna 2012.</p>
+Bosoneihin puolestaan kuuluvat perusvuorovaikutusten välittäjähiukkaset fotoni, Ẃ- ja Z-bosonit sekä gluoni.
+Lisäksi bosoneihin kuuluu mallin uusin tulokas Higgsin bosoni, joka löydettiin CERN:ssä vuonna 2012.
+Alla olevaan kuvaan on koottu hiukkasfysiikan standardimallin mukaiset hiukkaset.</p>
 <p><img alt="" src="_images/standardimalli.png" />
 <em>Standardimallin alkeishiukkaset (Credit: CERN)</em></p>
-<div class="section" id="perusvuorovaikutukset">
-<h3>Perusvuorovaikutukset<a class="headerlink" href="#perusvuorovaikutukset" title="Permalink to this headline">¶</a></h3>
-<p>teksti</p>
-</div>
 <div class="section" id="standardimallin-haasteet">
 <h3>Standardimallin haasteet<a class="headerlink" href="#standardimallin-haasteet" title="Permalink to this headline">¶</a></h3>
-<p>gravitoni, pimeä aine, antiaine, …</p>
+<p>Hiukkasfysiikan standardimalli pystyy selittämään sen, miten kaikki tuntemamme aine koostuu kvarkeista ja leptoneista sekä sen, miten ne vuorovaikuttavat keskenään välittäjähiukkasten avulla.
+Standardimalli kuvaa kolme neljästä perusvuorovaikutuksesta: sähkömagneettisen vuorovaikutuksen sekä vahvan ja heikon vuorovaikutuksen.
+Standardimalli ei kuitenkaan pysty selittämään gravitaatiota, jonka voimakkuus on paljon heikompi kuin muiden vuorovaikutusten.
+On spekuloitu, että gravitaatiota välittäisi gravitoniksi nimetty alkeishiukkanen, mutta tätä ei ole pystytty todistamaan.</p>
+<p>Toinen selittämätön ilmiö on aine-aintiaine-epäsymmetria.
+Standardimallin mukaan alkuräjähdyksessä olisi pitänyt syntyä yhtä paljon ainetta ja antiainetta.
+Universumimme koostuu kuitenkin kokonaan tavallisesta aineesta.
+Minne antiaine on kadonnut?</p>
+<p>Standardimalli ei pysty selittämään myöskään pimeää ainetta tai pimeää energiaa.
+Pimeän energian osuus maailmankaikkeuden massaenergiasta on 68,3% kun taas pimeän aineen osuus on 26,8% ja tavallisen aineen 4,9%.</p>
 </div>
 </div>
 <div class="section" id="hiukkasseikkailu">
@@ -362,14 +364,14 @@ Mallin uusin tulokas, Higgsin bosoni, löydettiin CERN:ssä vuonna 2012.</p>
 <col style="width: 50%" />
 </colgroup>
 <tbody>
-<tr class="row-odd"><td></td>
+<tr class="row-odd"><td><p>The International Particle Physics Outreach Group:n (<strong>IPPOG</strong>) sivuilta löytyy hiukkasfysiikkaan liittyvää tietoa ja opetusmateriaalia.</p></td>
 <td><p><a href="https://ippog.org/" target="_blank">https://ippog.org/</a></p></td>
 </tr>
-<tr class="row-even"><td></td>
-<td><p><a href="http://physicsmasterclasses.org/index.php?cat=country" target="_blank">http://physicsmasterclasses.org/index.php?cat=country</a></p></td>
+<tr class="row-even"><td><p><strong>International Masterclasses</strong> ovat lukio-opiskelijoille tarjottavia tapahtumia, jotka sisältävät mm. tutkijoiden luentoja sekä CERN:n datan tutkimista.</p></td>
+<td><p><a href="http://www.physicsmasterclasses.org/" target="_blank">http://www.physicsmasterclasses.org/</a></p></td>
 </tr>
-<tr class="row-odd"><td></td>
-<td><p><a href="https://quarknet.org/data-portfolio" target="_blank">https://quarknet.org/data-portfolio</a></p></td>
+<tr class="row-odd"><td><p><strong>QuarkNet</strong> on Yhdysvaltalainen järjestö, joka tarjoaa luonnontieteen opettajille keinoja tuoda oikeaa tutkimusta opetukseen.</p></td>
+<td><p><a href="https://quarknet.org/" target="_blank">https://quarknet.org</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -398,15 +400,15 @@ Mallin uusin tulokas, Higgsin bosoni, löydettiin CERN:ssä vuonna 2012.</p>
 
               </div>
               
-        </div>
-    </div>
-    
-    
-    <div class='prev-next-bottom'>
         
+        <div class='prev-next-bottom'>
+            
     <a class='left-prev' id="prev-link" href="cern-esittely.html" title="previous page">Esittelymateriaali</a>
     <a class='right-next' id="next-link" href="ohjelmointimateriaali.html" title="next page">CERN:n avoin data opetuksessa</a>
 
+        </div>
+        
+        </div>
     </div>
     <footer class="footer mt-5 mt-md-0">
     <div class="container">
@@ -414,7 +416,7 @@ Mallin uusin tulokas, Higgsin bosoni, löydettiin CERN:ssä vuonna 2012.</p>
         
           By HIP Education and Open Data Team<br/>
         
-          Last updated on 26.02.2021.<br/>
+          Last updated on 03.03.2021.<br/>
           <div class="extra_footer">
             <div>
 <a>Toteutettu Opetushallituksen valtionavustuksella.</a></br><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img class="license" alt="Creative Commons License" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a> Tämän sivuston materiaali on käytettävissä seuraavalla lisenssillä: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY 4.0.</a>

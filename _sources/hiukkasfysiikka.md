@@ -9,25 +9,32 @@
 Hiukkasfysiikka tutkii aineen pienimpiä rakennuspalikoita ja näiden välisiä vuorovaikutuksia.
 Kaikki alkuaineet voidaan rakentaa ainoastaan kolmen hiukkasen - protonin, neutronin ja elektronin - avulla.
 Protonit ja neutronit koostuvat kuitenkin vielä pienemmistä hiukkasista, kvarkeista.
+Tarkemmin sanottuna protoni koostuu kahdesta ylös-kvarkista ja yhdestä alas-kvarkista ja vastaavasti neutroni koostuu kahdesta alas-kvarkista ja yhdestä ylös-kvarkista.
 Teoriaa, joka kuvaa aineen pienimpiä rakennusosia sekä niiden välisiä vuorovaikutuksia, kutsutaan hiukkasfysiikan standardimalliksi.
-Standardimallin kuvaamat alkeishiukkaset voidaan jakaa ainehiukkasiin (fermionit) ja välittäjähiukkasiin (bosonit).
-Standarimallin mukaan fermioneja ovat kvarkit (ylös, alas, outo, lumo, huippu, pohja) ja leptonit (elektroni, myoni, tau, sekä näitä vastaavat neutriinot).
+Standardimallin kuvaamat alkeishiukkaset voidaan jakaa fermionit ja bosonit.
+Standarimallin mukaan fermioneja, joita joskus kutsutaan myös ainehiukkasiksi, ovat kvarkit (ylös, alas, outo, lumo, huippu, pohja) ja leptonit (elektroni, myoni, tau, sekä näitä vastaavat neutriinot).
 Kaikilla fermioneilla on lisäksi antihiukkanen, esimerkiksi elektronin antihiukkanen on positroni.
-Bosoneihin puolestaan kuuluvat fotoni, Ẃ- ja Z-bosonit, gluoni sekä Higgsin bosoni.
-
+Bosoneihin puolestaan kuuluvat perusvuorovaikutusten välittäjähiukkaset fotoni, Ẃ- ja Z-bosonit sekä gluoni.
+Lisäksi bosoneihin kuuluu mallin uusin tulokas Higgsin bosoni, joka löydettiin CERN:ssä vuonna 2012.
 Alla olevaan kuvaan on koottu hiukkasfysiikan standardimallin mukaiset hiukkaset.
-Mallin uusin tulokas, Higgsin bosoni, löydettiin CERN:ssä vuonna 2012.
 
 ![](img/standardimalli.png)
 *Standardimallin alkeishiukkaset (Credit: CERN)*
 
-### Perusvuorovaikutukset
-
-teksti
-
 ### Standardimallin haasteet
 
-gravitoni, pimeä aine, antiaine, ...
+Hiukkasfysiikan standardimalli pystyy selittämään sen, miten kaikki tuntemamme aine koostuu kvarkeista ja leptoneista sekä sen, miten ne vuorovaikuttavat keskenään välittäjähiukkasten avulla.
+Standardimalli kuvaa kolme neljästä perusvuorovaikutuksesta: sähkömagneettisen vuorovaikutuksen sekä vahvan ja heikon vuorovaikutuksen.
+Standardimalli ei kuitenkaan pysty selittämään gravitaatiota, jonka voimakkuus on paljon heikompi kuin muiden vuorovaikutusten.
+On spekuloitu, että gravitaatiota välittäisi gravitoniksi nimetty alkeishiukkanen, mutta tätä ei ole pystytty todistamaan.
+
+Toinen selittämätön ilmiö on aine-aintiaine-epäsymmetria.
+Standardimallin mukaan alkuräjähdyksessä olisi pitänyt syntyä yhtä paljon ainetta ja antiainetta.
+Universumimme koostuu kuitenkin kokonaan tavallisesta aineesta.
+Minne antiaine on kadonnut?
+
+Standardimalli ei pysty selittämään myöskään pimeää ainetta tai pimeää energiaa.
+Pimeän energian osuus maailmankaikkeuden massaenergiasta on 68,3% kun taas pimeän aineen osuus on 26,8% ja tavallisen aineen 4,9%.
 
 ## Hiukkasseikkailu
 
@@ -57,10 +64,10 @@ header-rows: 0
 name: example-table
 ---
 
-* - 
+* - The International Particle Physics Outreach Group:n (**IPPOG**) sivuilta löytyy hiukkasfysiikkaan liittyvää tietoa ja opetusmateriaalia.
    - <a href="https://ippog.org/" target="_blank">https://ippog.org/</a>
-* - 
-   - <a href="http://physicsmasterclasses.org/index.php?cat=country" target="_blank">http://physicsmasterclasses.org/index.php?cat=country</a>
-* - 
-   - <a href="https://quarknet.org/data-portfolio" target="_blank">https://quarknet.org/data-portfolio</a>
+* - **International Masterclasses** ovat lukio-opiskelijoille tarjottavia tapahtumia, jotka sisältävät mm. tutkijoiden luentoja sekä CERN:n datan tutkimista.
+   - <a href="http://www.physicsmasterclasses.org/" target="_blank">http://www.physicsmasterclasses.org/</a>
+* - **QuarkNet** on Yhdysvaltalainen järjestö, joka tarjoaa luonnontieteen opettajille keinoja tuoda oikeaa tutkimusta opetukseen.
+   - <a href="https://quarknet.org/" target="_blank">https://quarknet.org</a>
 ```

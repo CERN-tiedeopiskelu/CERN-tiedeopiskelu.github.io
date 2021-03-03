@@ -4,7 +4,7 @@ Tällä sivulla on listattuna sivustoja, joista voit löytää hiukkasfysiikkaan
 
 ## S'Cool LAB
 
-[S'Cool LAB](https://scoollab.web.cern.ch/) on fysiikan koulutuksen tutkimuskeskus CERN:ssä. Se tarjoaa lukiolaisille ja heidän opettajilleen työpajoja CERN-vierailuilla, mutta myös [aktiviteettiehdotuksia](https://scoollab.web.cern.ch/classroom-activities) luokkahuoneessa toteutettaviksi. Aktiviteetteihin kuuluu mm. erilaisia [3D-printattavia](https://scoollab.web.cern.ch/laserlab3D) koejärjestelmiä, [ohjeet](https://scoollab.web.cern.ch/cloud-chamber) kotitekoisen sumukammion tekemiseen tai [kuplakammiokuvia](https://scoollab.web.cern.ch/bubble-chamber-pictures-classroom) tutkittavaksi. 
+[S'Cool LAB](https://scoollab.web.cern.ch/) on fysiikan koulutuksen tutkimuskeskus CERN:ssä. Se tarjoaa lukiolaisille ja heidän opettajilleen työpajoja CERN-vierailuilla, mutta myös esimerkiksi [aktiviteettiehdotuksia](https://scoollab.web.cern.ch/classroom-activities) luokkahuoneessa toteutettaviksi. Aktiviteetteihin kuuluu mm. erilaisia [3D-printattavia](https://scoollab.web.cern.ch/laserlab3D) koejärjestelmiä, [ohjeet](https://scoollab.web.cern.ch/cloud-chamber) kotitekoisen sumukammion tekemiseen tai [kuplakammiokuvia](https://scoollab.web.cern.ch/bubble-chamber-pictures-classroom) tutkittavaksi. 
 
 ## Perimeter Institute
 

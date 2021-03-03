@@ -1,4 +1,6 @@
-# CMS virtuaalivierailut
+# Virtuaalivierailut ja -tapaamiset
+
+## CMS virtuaalivierailut
 
 CMS virtuaalivierailuilla pääset tutustumaan asiantuntijoiden opastuksella CERN:n CMS-kokeeseen.
 Asiantuntijat kertovat verkon välityksellä CMS-kokeen taustalla olevasta fysiikasta sekä teknologiasta ja vastaavat esitettyihin kysymyksiin.
@@ -11,4 +13,13 @@ Huom. vierailut voidaan järjestää myös **suomeksi**. Vierailuille toivotaan 
 
 Ilmoittaudu virtuaalivierailuille alla olevan linkin kautta. Kirjoita kohtaan "Do you already have a contact within CMS? If yes, indicate the name." kontaktihenkilöksi Kati Lassila-Perini.
 
-[https://cms.cern/interact-with-cms/book-your-virtual-visit](https://cms.cern/interact-with-cms/book-your-virtual-visit)
+<a href="https://cms.cern/interact-with-cms/book-your-virtual-visit" target="_blank">https://cms.cern/interact-with-cms/book-your-virtual-visit</a>
+
+## S'Cool LAB online-tiededemot
+
+Opi fysiikkaa hauskalla tavalla S'Cool LAB:n interaktiivisten tiede-esitysten kautta.
+Tarjolla on eri tyyppisiä esityksiä, kuten "Superconductors take off!", jossa tutustutaan upeaan suprajohtavuuden ilmiöön henkeäsalpaavien kokeiden ja uskomattomien havaintojen kauttasekä opit miksi suprajohteet ovat korvaamattomia maailman suurimman hiukkaskiihdyttimen, LHC:n, toiminnassa.
+
+Katso myös muut tarjolla olevat esitykset ja ilmoittaudu alla olevien linkkien kautta.
+
+<a href="https://voisins.cern/en/online-science-shows" target="_blank">https://voisins.cern/en/online-science-shows</a>

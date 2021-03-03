@@ -66,11 +66,22 @@ Luulitko tietäväsi millaista fyysikon elämä on? Et ole varmasti nähnyt sit�
  ```{list-table}
 ---
 header-rows: 0
-name: example-table
+widths: 45 45 10
 ---
 
-* - Miten tekoälyä hyödynnetään CERN:ssä?
-   - <a href="https://www.youtube.com/watch?v=2pn4CzFf7CY" target="_blank">https://www.youtube.com/watch?v=2pn4CzFf7CY</a>
 * - Millaista on olla jatko-opiskelijana CERN:ssä? Tohtorikoulutettava kertoo työstään antimaterian parissa.
    - <a href="https://www.youtube.com/watch?v=Tw1Ef-dzU4w" target="_blank">https://www.youtube.com/watch?v=Tw1Ef-dzU4w</a>
+   - 25:46
+* - Miten tekoälyä hyödynnetään CERN:ssä?
+   - <a href="https://www.youtube.com/watch?v=2pn4CzFf7CY" target="_blank">https://www.youtube.com/watch?v=2pn4CzFf7CY</a>
+   - 7:35
+* - Mitä CERN:n LHCb-kokeessa tutkitaan?
+   - <a href="https://www.youtube.com/watch?v=8lbQUa8z3M0" target="_blank">https://www.youtube.com/watch?v=8lbQUa8z3M0</a>
+   - 2:29
+* - Mikä on CERN:n CLOUD-koe ja miten se parantaa ymmärrystämme ilmastosta?
+   - <a href="https://www.youtube.com/watch?v=THj_Xkid7oQ" target="_blank">https://www.youtube.com/watch?v=THj_Xkid7oQ</a>
+   - 3:45
+* - Näe CERN:n ALICE-koe 360° näkymässä! 
+   - <a href="https://www.youtube.com/watch?v=xvhVYrp9hqQ" target="_blank">https://www.youtube.com/watch?v=xvhVYrp9hqQ</a>
+   - 11:34
 ```
