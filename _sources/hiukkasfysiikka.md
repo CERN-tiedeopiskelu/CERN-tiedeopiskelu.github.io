@@ -14,7 +14,7 @@ Teoriaa, joka kuvaa aineen pienimpiä rakennusosia sekä niiden välisiä vuorov
 Standardimallin kuvaamat alkeishiukkaset voidaan jakaa fermionit ja bosonit.
 Standarimallin mukaan fermioneja, joita joskus kutsutaan myös ainehiukkasiksi, ovat kvarkit (ylös, alas, outo, lumo, huippu, pohja) ja leptonit (elektroni, myoni, tau, sekä näitä vastaavat neutriinot).
 Kaikilla fermioneilla on lisäksi antihiukkanen, esimerkiksi elektronin antihiukkanen on positroni.
-Bosoneihin puolestaan kuuluvat perusvuorovaikutusten välittäjähiukkaset fotoni, Ẃ- ja Z-bosonit sekä gluoni.
+Bosoneihin puolestaan kuuluvat perusvuorovaikutusten välittäjähiukkaset fotoni, W- ja Z-bosonit sekä gluoni.
 Lisäksi bosoneihin kuuluu mallin uusin tulokas Higgsin bosoni, joka löydettiin CERN:ssä vuonna 2012.
 Alla olevaan kuvaan on koottu hiukkasfysiikan standardimallin mukaiset hiukkaset.
 
@@ -61,7 +61,7 @@ CERN:n fyysikko selittää kolmiosaisessa videosarjassa esimerkkien avulla mm. m
  ```{list-table}
 ---
 header-rows: 0
-name: example-table
+widths: 50 50
 ---
 
 * - The International Particle Physics Outreach Group:n (**IPPOG**) sivuilta löytyy hiukkasfysiikkaan liittyvää tietoa ja opetusmateriaalia.

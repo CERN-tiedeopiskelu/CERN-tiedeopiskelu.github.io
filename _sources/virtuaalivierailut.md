@@ -18,8 +18,8 @@ Ilmoittaudu virtuaalivierailuille alla olevan linkin kautta. Kirjoita kohtaan "D
 ## S'Cool LAB online-tiededemot
 
 Opi fysiikkaa hauskalla tavalla S'Cool LAB:n interaktiivisten tiede-esitysten kautta.
-Tarjolla on eri tyyppisiä esityksiä, kuten "Superconductors take off!", jossa tutustutaan upeaan suprajohtavuuden ilmiöön henkeäsalpaavien kokeiden ja uskomattomien havaintojen kauttasekä opit miksi suprajohteet ovat korvaamattomia maailman suurimman hiukkaskiihdyttimen, LHC:n, toiminnassa.
+Tarjolla on eri tyyppisiä esityksiä, kuten "Superconductors take off!", jossa tutustutaan upeaan suprajohtavuuden ilmiöön henkeäsalpaavien kokeiden ja uskomattomien havaintojen kautta sekä opit miksi suprajohteet ovat korvaamattomia maailman suurimman hiukkaskiihdyttimen, LHC:n, toiminnassa.
 
-Katso myös muut tarjolla olevat esitykset ja ilmoittaudu alla olevien linkkien kautta.
+Katso myös muut tarjolla olevat esitykset ja ilmoittautumisohjeet alla olevasta esitteestä. Huom. Esitykset voidaan järjestää myös **suomeksi**.
 
-<a href="https://voisins.cern/en/online-science-shows" target="_blank">https://voisins.cern/en/online-science-shows</a>
+{download}`S'Cool LAB - virtual offer - science shows.pdf`
