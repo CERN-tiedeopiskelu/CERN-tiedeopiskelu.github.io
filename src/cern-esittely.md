@@ -4,6 +4,7 @@
 
 <figure class="video_container">
         <iframe width="808" height="454.5" src="https://www.youtube.com/embed/i0qjDZH-p7E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <figcaption>CERN:n esittelyvideo (Kesto 4:01)</figcaption>
 </figure>
 
 <a href="https://home.cern/" target="_blank">CERN</a>, eli Euroopan hiukkasfysiikan tutkimuskeskus sijaitsee Ranskan ja Sveitsin rajalla lähellä Geneveä.
