@@ -27,6 +27,10 @@ Hiukkasfysiikan standardimalli pystyy selittämään sen, miten kaikki tuntemamm
 Standardimalli kuvaa kolme neljästä perusvuorovaikutuksesta: sähkömagneettisen vuorovaikutuksen sekä vahvan ja heikon vuorovaikutuksen.
 Standardimalli ei kuitenkaan pysty selittämään gravitaatiota, jonka voimakkuus on paljon heikompi kuin muiden vuorovaikutusten.
 On spekuloitu, että gravitaatiota välittäisi gravitoniksi nimetty alkeishiukkanen, mutta tätä ei ole pystytty todistamaan.
+Katso video gravitoneista ja kvanttigravitaatiosta (Kesto 9:05).
+<figure class="video_container">
+    <iframe width="808" height="454.5" src="https://www.youtube.com/embed/CbPWYjnQIO8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
 
 Toinen selittämätön ilmiö on aine-aintiaine-epäsymmetria.
 Standardimallin mukaan alkuräjähdyksessä olisi pitänyt syntyä yhtä paljon ainetta ja antiainetta.
@@ -39,6 +43,11 @@ Katso animaatio, jossa kerrotaan tarkemmin antimateriasta ja epäsymmetriasta (K
 
 Standardimalli ei pysty selittämään myöskään pimeää ainetta tai pimeää energiaa.
 Pimeän energian osuus maailmankaikkeuden massaenergiasta on 68,3% kun taas pimeän aineen osuus on 26,8% ja tavallisen aineen 4,9%.
+Katso animaatio, jossa kerrotaan lisää pimeästä aineesta (Kesto 5:34).
+<figure class="video_container">
+    <iframe width="808" height="454.5" src="https://www.youtube.com/embed/HneiEA1B8ks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
 
 ## Hiukkasseikkailu
 
