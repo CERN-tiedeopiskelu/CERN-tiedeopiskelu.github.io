@@ -53,14 +53,6 @@ Kuvasta nähdään, että esimerkiksi varatut hadronit kaareutuvat ilmaisimen ma
 ![](/img/CMS_Slice.gif)
 *Poikkileikkaus CMS-ilmaisimen kerroksista. (Credit: CERN)*
 
-## Hiukkasfyysikon päivä
-
-Luulitko tietäväsi millaista fyysikon elämä on? Et ole varmasti nähnyt sitä tällä tavalla. Videolla näet Tšekkiläisen fyysikon tyypillisen päivän seuraamalla häntä livenä sekä animaatioiden kautta ja opit samalla upeita faktoja hiukkasfysiikasta ja sen tutkimuksesta (Kesto 30:49).
-
-<figure class="video_container">
-    <iframe width="808" height="454.5" src="https://www.youtube.com/embed/e0Lv2GrsXig" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
-
 ## Linkkejä
 
  ```{list-table}
@@ -69,6 +61,25 @@ header-rows: 0
 widths: 45 45 10
 ---
 
+
+* - CERN:n historia
+   - <a href="https://home.cern/about/who-we-are/our-history" target="_blank">https://home.cern/about/who-we-are/our-history</a>
+   - 
+* - World Wide Web:n synty
+   - <a href="https://home.cern/science/computing/birth-web" target="_blank">https://home.cern/science/computing/birth-web</a>
+   - 
+* - CERN:n vaikutukset yhteiskunnalle
+   - <a href="https://home.cern/sites/home.web.cern.ch/files/2018-07/CERN-Brochure-2016-005-Eng.pdf" target="_blank">https://home.cern/sites/home.web.cern.ch/files/2018-07/CERN-Brochure-2016-005-Eng.pdf</a>
+   - 
+* - High-Luminosity LHC - Suuri LHC:n päivitys
+   - <a href="https://home.cern/sites/home.web.cern.ch/files/2018-10/flyer_hilumi_eng.pdf" target="_blank">https://home.cern/sites/home.web.cern.ch/files/2018-10/flyer_hilumi_eng.pdf</a>
+   -
+* - FCC (Future Circular Collider) - LHC:n seuraaja
+   - <a href="https://home.cern/sites/home.web.cern.ch/files/2018-07/CERN-Brochure-2016-003-Eng.pdf" target="_blank">https://home.cern/sites/home.web.cern.ch/files/2018-07/CERN-Brochure-2016-003-Eng.pdf</a>
+   - 
+* - Tšekkiläinen hiukkasfyysikko kertoo fyysikon elämästä ja hiukkasfysiikasta
+   - <a href="https://www.youtube.com/watch?v=e0Lv2GrsXig" target="_blank">https://www.youtube.com/watch?v=e0Lv2GrsXig</a>
+   - 30:49
 * - Millaista on olla jatko-opiskelijana CERN:ssä? Tohtorikoulutettava kertoo työstään antimaterian parissa.
    - <a href="https://www.youtube.com/watch?v=Tw1Ef-dzU4w" target="_blank">https://www.youtube.com/watch?v=Tw1Ef-dzU4w</a>
    - 25:46

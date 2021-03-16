@@ -39,4 +39,6 @@ widths: 50 50
 
 * - Maailmankaikkeuden hiukkaset - ATLAS-kokeen värityskirja. Huom. sisältää väritettävien kuvien lisäksi paljon hiukkasfysiikan tietoa suomeksi.
    - <a href="https://cds.cern.ch/record/2753514/files/Particles%20of%20the%20Universe%20in%20Finnish%20-%20A4.pdf?version=1" target="_blank">A4 PDF</a><br><a href="https://cds.cern.ch/record/2753514/files/%20Particles%20of%20the%20Universe%20in%20Finnish%20-%20A3.pdf?version=1" target="_blank">A3 PDF</a><br><a href="https://cds.cern.ch/record/2753514/files/%20Particles%20of%20the%20Universe%20in%20Finnish%20-%20Booklet.pdf?version=1" target="_blank">Vihko</a>
+* - **International Masterclasses** ovat lukio-opiskelijoille tarjottavia tapahtumia, jotka sisältävät mm. tutkijoiden luentoja sekä CERN:n datan tutkimista.
+   - <a href="http://www.physicsmasterclasses.org/" target="_blank">http://www.physicsmasterclasses.org/</a>
 ```
