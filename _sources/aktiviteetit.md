@@ -4,7 +4,8 @@ Tällä sivulla on listattuna sivustoja, joista voit löytää hiukkasfysiikkaan
 
 ## S'Cool LAB
 
-<a href="https://scoollab.web.cern.ch/" target="_blank">S'Cool LAB</a> on fysiikan koulutuksen tutkimuskeskus CERN:ssä. Se tarjoaa lukiolaisille ja heidän opettajilleen työpajoja CERN-vierailuilla, mutta myös esimerkiksi <a href="https://scoollab.web.cern.ch/classroom-activities" target="_blank">aktiviteettiehdotuksia</a> luokkahuoneessa toteutettaviksi. Aktiviteetteihin kuuluu mm. erilaisia <a href="https://scoollab.web.cern.ch/laserlab3D" target="_blank">3D-printattavia</a> koejärjestelmiä, <a href="https://scoollab.web.cern.ch/cloud-chamber" target="_blank">ohjeet</a> kotitekoisen sumukammion tekemiseen tai <a href="https://scoollab.web.cern.ch/bubble-chamber-pictures-classroom" target="_blank">kuplakammiokuvia</a> tutkittavaksi. 
+<a href="https://scoollab.web.cern.ch/" target="_blank">S'Cool LAB</a> on fysiikan koulutuksen tutkimuskeskus CERN:ssä. Se tarjoaa lukiolaisille ja heidän opettajilleen työpajoja CERN-vierailuilla, mutta myös esimerkiksi <a href="https://scoollab.web.cern.ch/classroom-activities" target="_blank">aktiviteettiehdotuksia</a> luokkahuoneessa toteutettaviksi. Aktiviteetteihin kuuluu mm. erilaisia <a href="https://scoollab.web.cern.ch/laserlab3D" target="_blank">3D-printattavia</a> koejärjestelmiä, <a href="https://scoollab.web.cern.ch/cloud-chamber" target="_blank">ohjeet</a> kotitekoisen sumukammion tekemiseen tai <a href="https://scoollab.web.cern.ch/bubble-chamber-pictures-classroom" target="_blank">kuplakammiokuvia</a> tutkittavaksi.
+Katso myös S'Cool LAB:n [online-tiededemot](./virtuaalivierailut.html#s-cool-lab-online-tiededemot).
 
 ## Perimeter Institute
 
