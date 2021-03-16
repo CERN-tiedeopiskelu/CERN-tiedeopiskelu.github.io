@@ -32,6 +32,10 @@ Toinen selittämätön ilmiö on aine-aintiaine-epäsymmetria.
 Standardimallin mukaan alkuräjähdyksessä olisi pitänyt syntyä yhtä paljon ainetta ja antiainetta.
 Universumimme koostuu kuitenkin kokonaan tavallisesta aineesta.
 Minne antiaine on kadonnut?
+Katso animaatio, jossa kerrotaan tarkemmin antimateriasta ja epäsymmetriasta (Kesto 5:16).
+<figure class="video_container">
+    <iframe width="808" height="454.5" src="https://www.youtube.com/embed/CtR5EkvLNfg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
 
 Standardimalli ei pysty selittämään myöskään pimeää ainetta tai pimeää energiaa.
 Pimeän energian osuus maailmankaikkeuden massaenergiasta on 68,3% kun taas pimeän aineen osuus on 26,8% ja tavallisen aineen 4,9%.
@@ -61,13 +65,19 @@ CERN:n fyysikko selittää kolmiosaisessa videosarjassa esimerkkien avulla mm. m
  ```{list-table}
 ---
 header-rows: 0
-widths: 50 50
+widths: 45 45 10
 ---
 
+* - **Higgsin Kenttä** Animaatio, joka selittää, miten Higgsin kenttä toimii
+   - <a href="https://www.youtube.com/watch?v=joTKd5j3mzk" target="_blank">https://www.youtube.com/watch?v=joTKd5j3mzk</a>
+   - 3:19
+* - **LHC FAQ** LHC:hen liittyviä faktoja ja fysiikkaa LHC:n taustalla.
+   - <a href="https://home.cern/sites/home.web.cern.ch/files/2018-07/CERN-Brochure-2017-002-Eng.pdf" target="_blank">https://home.cern/sites/home.web.cern.ch/files/2018-07/CERN-Brochure-2017-002-Eng.pdf</a>
+   -
 * - The International Particle Physics Outreach Group:n (**IPPOG**) sivuilta löytyy hiukkasfysiikkaan liittyvää tietoa ja opetusmateriaalia.
    - <a href="https://ippog.org/" target="_blank">https://ippog.org/</a>
-* - **International Masterclasses** ovat lukio-opiskelijoille tarjottavia tapahtumia, jotka sisältävät mm. tutkijoiden luentoja sekä CERN:n datan tutkimista.
-   - <a href="http://www.physicsmasterclasses.org/" target="_blank">http://www.physicsmasterclasses.org/</a>
+   -
 * - **QuarkNet** on Yhdysvaltalainen järjestö, joka tarjoaa luonnontieteen opettajille keinoja tuoda oikeaa tutkimusta opetukseen.
    - <a href="https://quarknet.org/" target="_blank">https://quarknet.org</a>
+   -
 ```
