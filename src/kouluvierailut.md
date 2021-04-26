@@ -17,6 +17,6 @@ Harjoitteita löytyy hiukkasfysiikan aiheiden lisäksi myös muista aiheista.
 Työpajaan olisi hyvä varata aikaa ainakin kaksi tuntia.
 Aiheen parissa vierähtäisi kyllä helposti enemmänkin aikaa, joten pidemmätkin työpajat ovat oiva vaihtoehto.
 
-Jos työpajatoiminta kiinnostaa, ota yhteyttä: [juha-matti.teuho@helsinki.fi
-](mailto:juha-matti.teuho@helsinki.fi
+Jos työpajatoiminta kiinnostaa, ota yhteyttä: [peitsa.veteli@helsinki.fi
+](mailto:peitsa.veteli@helsinki.fi
 )
